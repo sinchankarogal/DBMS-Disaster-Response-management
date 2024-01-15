@@ -33,7 +33,7 @@
 
 ### ER diagram 
 
-![alt text](https://github.com/vivekuw/E-Commerce-Database-management-project/blob/a83d9c48c82ffd18dee02c13f42e87b7069faf67/ECommerce.jpg)
+![alt text](ER_diagram.jpg)
 
 ### Create Schema(database) in MySQL
 ```sql
