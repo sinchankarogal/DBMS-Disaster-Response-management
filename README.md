@@ -844,7 +844,7 @@ END;
 /
 ```
 
-37. Create a function that returns the number of individuals affected by a given emergency event.
+36. Create a function that returns the number of individuals affected by a given emergency event.
 ```sql
 CREATE FUNCTION GET_NUM_AFFECTED11 ( emg_id INT ) 
 RETURN INT 
