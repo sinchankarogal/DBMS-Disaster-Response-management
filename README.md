@@ -1,7 +1,5 @@
 # DBMS-Disaster-Response-management
 
-# E-Commerce-Database-management-project
-
   As a part of our course, I made this project for Database Management Systems (DBMS). This project contains theoretical as well as implementation in SQL.
   
 ### Contents
@@ -20,6 +18,8 @@
     o	Creating tables
     
     o	Inserting data
+
+     o	Queries
     
 # Pre-requisite
   •	MySQL
