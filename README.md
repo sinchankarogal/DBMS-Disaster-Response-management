@@ -29,7 +29,7 @@
 
 ### Relational Database Schema - e-commerce -ER diagram
 
-![alt text](https://github.com/vivekuw/E-Commerce-Database-management-project/blob/23a0b08070f5fe22a055910cafc06d86dc3befb6/E%20commerce%20ER%20Diagram.jpg)
+![alt text](schema.jpg)
 
 ### ER diagram 
 
